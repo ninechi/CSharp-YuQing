@@ -1,0 +1,9 @@
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.BLL.dll
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.BLL.pdb
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.DAL.dll
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.Model.dll
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.DAL.pdb
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\bin\Release\SM.YuQing.Model.pdb
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\obj\Release\SM.YuQing.BLL.csprojResolveAssemblyReference.cache
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\obj\Release\SM.YuQing.BLL.dll
+D:\!JEFF\SVN\SM_IT_APP\VSProjects\舆情监测系统\代码\YuQing\SM.YuQing.BLL\obj\Release\SM.YuQing.BLL.pdb
